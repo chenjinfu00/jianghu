@@ -1,4 +1,4 @@
-# 江湖
+# 五（WU）
 
 [打开网页试玩](https://chenjinfu00.github.io/jianghu/)
 
