@@ -1,9 +1,13 @@
 {
-  "name": "五 / WU",
-  "date": "2026-10-16",
-  "update": "opening-and-easier-bosses",
-  "sourceCommit": "4db85a1e84edfe852f292f1976b467d3f3f4900b",
+  "release": "2026-10-16-hud-landscape",
+  "sourceCommit": "210c007d1d95764907d44e7685c09e3d9ce55b46",
+  "manifestSha256": "15075bcd07e28a7a58b2778385b4cdec29e42596ba7a27d38fec5399f1f80be3",
   "runtimeFiles": 143,
-  "testsPassed": 971,
-  "runtimeSha256": "7f5f2def44c01374067656fce193861140cc37779384ff6602c410c585d55c39"
+  "features": [
+    "unified-bottom-hud",
+    "shield-health-overlay",
+    "visual-balance-cues",
+    "mobile-landscape-only",
+    "mobile-camera-13-percent"
+  ]
 }
