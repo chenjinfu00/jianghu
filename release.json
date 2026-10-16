@@ -1,9 +1,9 @@
 {
   "name": "五 / WU",
   "date": "2026-10-16",
-  "update": "all-self-state-at-fighter-feet",
-  "sourceCommit": "b57440a2238c92d98727aa6bf2c6b379e9ed84d3",
+  "update": "desktop-bottom-right-keys-and-cooldowns",
+  "sourceCommit": "320da499ed0c59145a96a77015caa18f0452a547",
   "runtimeFiles": 143,
-  "testsPassed": 975,
-  "runtimeSha256": "3547033e57325b916c46029e372cf7c41c009e97667e7dac43d51bae51305ba3"
+  "targetedTestsPassed": 14,
+  "runtimeSha256": "b5bea3b10d78acaa5234be53bdf520aefb9b7c092aaa9af49f6ee4cdb218ab18"
 }
