@@ -1,8 +1,9 @@
 {
   "name": "五 / WU",
   "date": "2026-10-16",
-  "sourceCommit": "5cb75ef88108b7d4eae0744ce683b82d0ea507c6",
-  "runtimeFiles": 147,
-  "testsPassed": 966,
-  "runtimeSha256": "9fb7749d9347c4c328016477cae55220b38e53d82e78020ea828e4deb96b7b7d"
+  "update": "opening-and-easier-bosses",
+  "sourceCommit": "4db85a1e84edfe852f292f1976b467d3f3f4900b",
+  "runtimeFiles": 143,
+  "testsPassed": 971,
+  "runtimeSha256": "7f5f2def44c01374067656fce193861140cc37779384ff6602c410c585d55c39"
 }
