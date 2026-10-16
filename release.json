@@ -1,9 +1,9 @@
 {
   "name": "五 / WU",
   "date": "2026-10-16",
-  "update": "foot-resources-only-remove-legacy-ground-gauges",
-  "sourceCommit": "d8eb6bc51d92e77896221531acc489d644a6477c",
+  "update": "all-self-state-at-fighter-feet",
+  "sourceCommit": "b57440a2238c92d98727aa6bf2c6b379e9ed84d3",
   "runtimeFiles": 143,
   "testsPassed": 975,
-  "runtimeSha256": "e2a7322d4ca7511fafc3b8948206d67e85030f38aba6b43822de3ca07bf61c41"
+  "runtimeSha256": "3547033e57325b916c46029e372cf7c41c009e97667e7dac43d51bae51305ba3"
 }
