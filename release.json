@@ -1,9 +1,9 @@
 {
   "name": "五 / WU",
   "date": "2026-10-16",
-  "update": "unified-hud-centered-boss-landscape",
-  "sourceCommit": "fd8362b06453539de333929b28ade66a5d817008",
+  "update": "foot-resources-only-remove-legacy-ground-gauges",
+  "sourceCommit": "d8eb6bc51d92e77896221531acc489d644a6477c",
   "runtimeFiles": 143,
   "testsPassed": 975,
-  "runtimeSha256": "f36c26705af79cc2367583c61165206fc9ad7ac97f68f2978f2d824d14601d7b"
+  "runtimeSha256": "e2a7322d4ca7511fafc3b8948206d67e85030f38aba6b43822de3ca07bf61c41"
 }
