@@ -1,13 +1,9 @@
 {
-  "release": "2026-10-16-hud-landscape",
-  "sourceCommit": "210c007d1d95764907d44e7685c09e3d9ce55b46",
-  "manifestSha256": "15075bcd07e28a7a58b2778385b4cdec29e42596ba7a27d38fec5399f1f80be3",
+  "name": "五 / WU",
+  "date": "2026-10-16",
+  "update": "unified-hud-centered-boss-landscape",
+  "sourceCommit": "fd8362b06453539de333929b28ade66a5d817008",
   "runtimeFiles": 143,
-  "features": [
-    "unified-bottom-hud",
-    "shield-health-overlay",
-    "visual-balance-cues",
-    "mobile-landscape-only",
-    "mobile-camera-13-percent"
-  ]
+  "testsPassed": 975,
+  "runtimeSha256": "f36c26705af79cc2367583c61165206fc9ad7ac97f68f2978f2d824d14601d7b"
 }
