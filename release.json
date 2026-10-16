@@ -1,8 +1,8 @@
 {
   "name": "五 / WU",
-  "date": "2026-10-14",
-  "testsPassed": 900,
-  "sourceSnapshotSha256": "a6a86b5a78949cf62b2dbe1637017a6d487968e8d765e0ee9f931236b768a264",
-  "runtimeSha256": "d1def314765b77b4ac1549f4421190b5768cc6b82a12aa1cde804b3d2c5f4601",
-  "runtimeFiles": 127
+  "date": "2026-10-16",
+  "sourceCommit": "5cb75ef88108b7d4eae0744ce683b82d0ea507c6",
+  "runtimeFiles": 147,
+  "testsPassed": 966,
+  "runtimeSha256": "9fb7749d9347c4c328016477cae55220b38e53d82e78020ea828e4deb96b7b7d"
 }
